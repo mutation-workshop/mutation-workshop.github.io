@@ -18,7 +18,7 @@ title: MUTATION 2018
 description: > # this means to ignore newlines until "baseurl:"
   Mutation Analysis Workshop 2018
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Your-Link.github.io" # the base hostname & protocol for your site
+url: "mutation-workshop.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 future: true
@@ -34,7 +34,7 @@ logo: "../css/2018_style/img/icon-large.png"
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
 include: ['_2018_pages']
-#include: ['_2018_pages']
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
