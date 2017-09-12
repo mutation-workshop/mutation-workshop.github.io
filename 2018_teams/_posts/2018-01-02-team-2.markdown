@@ -1,0 +1,11 @@
+---
+title: Dr
+name: Nan Li
+subtitle: Medidata Solutions
+layout: 2018_default
+img: nan.jpg
+thumbnail: nan.jpg
+alt: Nan Li
+website: https://cs.gmu.edu/~nli1/
+description: Foo bar
+---
