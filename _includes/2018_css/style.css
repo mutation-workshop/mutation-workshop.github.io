@@ -456,7 +456,6 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #3cb371;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
@@ -471,7 +470,6 @@ section h3.section-subheading {
     margin-top: -12px;
     text-align: center;
     font-size: 120%;
-    color: #fff;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content i {
@@ -490,7 +488,7 @@ section h3.section-subheading {
     max-width: 400px;
     min-height: 100px;
     text-align: center;
-    background-color: #fff;
+    background-color: transparent;
 }
 
 #speakers .speakers-item .speakers-caption h4 {
