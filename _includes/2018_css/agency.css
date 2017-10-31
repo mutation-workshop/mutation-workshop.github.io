@@ -434,12 +434,13 @@ section h3.section-subheading {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 250px;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover {
     position: absolute;
     width: 100%;
+    max-width: 250px;
     height: 100%;
     opacity: 0;
     -webkit-transition: all ease .5s;
@@ -456,9 +457,11 @@ section h3.section-subheading {
     position: absolute;
     top: 50%;
     width: 100%;
+    max-width: 250px;
     height: 20px;
     margin-top: -12px;
     text-align: center;
+    align: center;
     font-size: 120%;
     color: #fff;
 }
@@ -476,7 +479,7 @@ section h3.section-subheading {
     margin: 0 auto;
     padding-top: 25px;
     padding-bottom: 5px;
-    max-width: 400px;
+    max-width: 250px;
     min-height: 100px;
     text-align: center;
     background-color: #fff;

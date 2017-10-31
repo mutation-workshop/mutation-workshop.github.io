@@ -1,12 +1,15 @@
 ---
-title: Name
-name: Name-1
-subtitle: Position
+title: John Clark
+name: speaker-01
+position: Professor of Computer and Information Security
+affiliation: The University of Sheffield (UK)
 layout: 2018_default
-modal-id: 1
-img: TBD.jpg
-thumbnail: TBD.jpg
-alt: Picture of TBD
-topic: Topic
-description: More Info
+modal-id: 2
+img: john.jpg
+thumbnail: john.jpg
+alt: John Clark
+website: http://www.sheffield.ac.uk/dcs/people/academic/jclark
+topic: TBC
+abstract: > 
+ TBC
 ---

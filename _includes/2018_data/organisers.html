@@ -32,11 +32,16 @@
                     <h3 class="section-subheading text-muted"></h3>
                 </div>
             </div>
-	    <div class="row">
-                <center>
-		    TBC
-                </center>
-            </div>
+	    {% for member in site.data.pc %}
+	    <div class="row pc">
+                <div class="col-md-6 col-sm-6 pc-name">
+                     {{ member.Name }} {{ member.Surname }}
+		</div>
+		<div class="col-md-6 col-sm-6 pc-affiliation">
+                     {{member.Institution}} ({{member.Country}})
+		</div>
+	    </div>
+	    {% endfor %}
         </div>
     <!--</aside>-->
     </section>
