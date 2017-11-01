@@ -1,0 +1,78 @@
+CALL FOR PAPERS
+
+Mutation 2018: The 13th International Workshop on Mutation Analysis
+April 9, 2018, Västerås, Sweden
+
+https://mutation-workshop.github.io/
+
+Co-located with ICST 2018
+(11th Intl. Conference on Software Testing, Verification and Validation)
+
+
+* About Mutation 2018 *
+
+Mutation is acknowledged as an important way to assess the fault-finding
+effectiveness of test sets. Mutation testing has mostly been applied at the
+source code level, but more recently, related ideas have also been used to test
+artefacts described in a considerable variety of notations and at different
+levels of abstraction. Mutation ideas are used with requirements, formal
+specifications, architectural design notations, informal descriptions (e.g. use
+cases) and hardware. Mutation is now established as a major concept in software
+and systems V&V and uses of mutation are increasing. The goal of the Mutation
+workshop is to provide a forum for researchers and practitioners to discuss new
+and emerging trends in mutation analysis. We invite submissions of both
+full-length and short-length research papers as well as industry practice
+papers.
+
+
+* Topics of interest *
+
+- Mutation-based test adequacy criteria (theory or practical application).
+- Mutation-based test data generation.
+- Higher order mutation testing.
+- Novel mutation testing paradigms and applications.
+- Empirical studies of mutation testing.
+- Formal theoretical analysis of mutation testing.
+- Comparative studies (i.e., studies that compare mutation with other
+  techniques).
+- Mutation testing tools.
+- Industrial experience with mutation testing.
+- New mutation systems for programming languages and for higher-level
+  descriptive.
+- Increasing the efficiency of mutation. 
+- Mutation for mobile, internet and cloud based systems. 
+- Mutation for security and reliability.
+
+
+* Submissions & Publication *
+
+Three types of papers can be submitted to the workshop:
+- Full papers (10 pages): Research, case studies
+- Short papers (6 pages): Research in progress, tools, experience reports,
+  problem descriptions, new ideas
+- Industrial papers (6 pages).
+
+Each paper must conform to the two-column IEEE conference publication format
+(https://www.ieee.org/conferences_events/conferences/publishing/templates.html)
+and must be submitted in PDF format via EasyChair (https://easychair.org/
+conferences/?conf=mutation2018). Submissions will be evaluated according to the
+relevance and originality of the work and to their ability to generate
+discussions between the participants of the workshop. Three reviewers will
+review each paper and all accepted papers will be published as part of the ICST
+proceedings.
+
+
+* Important Dates *
+
+- Submission of abstracts: January 5, 2018
+- Submission of full papers: January 12, 2018
+- Notification of acceptance: February 19, 2018
+- Camera Ready: February 28, 2018
+- Workshop date: April 9, 2018 
+
+
+* Organization *
+
+Marinos Kintis, University of Luxembourg, Luxembourg
+Nan Li, Medidata Solutions, USA
+José Miguel Rojas, University of Sheffield, UK
