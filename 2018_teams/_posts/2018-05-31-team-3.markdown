@@ -1,7 +1,7 @@
 ---
 title: Dr
 name: José Miguel Rojas
-subtitle: The University of Sheffield
+subtitle: University of Leicester
 layout: 2018_default
 img: jose.jpg
 thumbnail: jose.jpg
