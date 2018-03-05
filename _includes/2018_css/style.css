@@ -977,3 +977,11 @@ body {
     color: #{{ site.data.template.color.muted }};
     min-height: 10px;
 }
+
+.body-text {
+    margin-bottom: 25px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 100%;
+    color: #fff;
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
