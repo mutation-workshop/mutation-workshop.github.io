@@ -985,3 +985,18 @@ body {
     color: #fff;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+.paper-title {
+    display:inline;
+    padding-left: 0;
+    font-size:110%;
+    min-height: 10px;
+    color: #000;
+}
+
+.paper-authors {
+    display:inline;
+    font-size:90%;
+    color: #{{ site.data.template.color.muted }};
+    min-height: 10px;
+}
