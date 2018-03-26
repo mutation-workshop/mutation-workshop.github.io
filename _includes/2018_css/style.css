@@ -989,7 +989,7 @@ body {
 .paper-title {
     display:inline;
     padding-left: 0;
-    font-size:110%;
+    font-size:100%;
     min-height: 10px;
     color: #000;
 }
@@ -999,4 +999,16 @@ body {
     font-size:90%;
     color: #{{ site.data.template.color.muted }};
     min-height: 10px;
+}
+
+.program-time {
+    display:inline;
+    font-size:90%;
+    color: #{{ site.data.template.color.muted }};
+    min-height: 10px;
+}
+
+.program-table td
+{
+    padding:0 0 0 7px;
 }

@@ -1,8 +1,18 @@
-Title,Authors
-"A Systematic Review of Cost Reduction Techniques for Mutation Testing: Preliminary Results","Fabiano Cutigi Ferrari, Alessandro Viola Pizzoleto and Jeff Offutt"
-"An Industrial Application of Mutation Testing: Lessons, Challenges, and Research Directions","Goran Petrović, Marko Ivanković, Robert Kurtz, Paul Ammann and René Just"
-"If You Can't Kill a Supermutant, You Have a Problem","Rahul Gopinath, Björn Mathis and Andreas Zeller"
-"Mutant Quality Indicators","Mike Papadakis, Thierry Titcheu Chekam and Yves Le Traon"
-"To Detect Abnormal Program Behaviours via Mutation Deduction","Jie Zhang, Dan Hao, Lingming Zhang and Lu Zhang"
-"MUSIC: MUtation analySIs tool with High Configurability and Extensibility","Duy Loc Phan, Yunho Kim and Moonzoo Kim"
-"Mull it over: mutation testing based on LLVM","Alex Denisov and Stanislav Pankevich"
+Time,Title,Authors,Type
+08:00,Registration
+09:00,Opening
+09:15,"<i>Keynote 1:</i> MUTATION: What Have We Done and What Can We Do Next?",Prof. John Clark,Keynote
+10:30,Fika
+11:00,<i>Session 1</i>
+11:00,"A Systematic Review of Cost Reduction Techniques for Mutation Testing: Preliminary Results","Fabiano Cutigi Ferrari, Alessandro Viola Pizzoleto and Jeff Offutt",Paper
+11:30,"To Detect Abnormal Program Behaviours via Mutation Deduction","Jie Zhang, Dan Hao, Lingming Zhang and Lu Zhang",Paper
+11:50,"If You Can't Kill a Supermutant, You Have a Problem","Rahul Gopinath, Björn Mathis and Andreas Zeller",Paper
+12:10,"Mull it over: mutation testing based on LLVM","Alex Denisov and Stanislav Pankevich",Paper
+12:30,Lunch
+14:00,"<i>Keynote 2:</i> Mutation Testing: Evaluating Millions of Mutants in 8 Programming Languages", Goran Petrovic,Keynote
+15:30,Fika
+16:00,<i>Session 2</i>
+16:00,"Mutant Quality Indicators","Mike Papadakis, Thierry Titcheu Chekam and Yves Le Traon"
+16:20,"MUSIC: MUtation analySIs tool with High Configurability and Extensibility","Duy Loc Phan, Yunho Kim and Moonzoo Kim"
+16:40,"An Industrial Application of Mutation Testing: Lessons, Challenges, and Research Directions","Goran Petrović, Marko Ivanković, Robert Kurtz, Paul Ammann and René Just"
+17:00,Closing
