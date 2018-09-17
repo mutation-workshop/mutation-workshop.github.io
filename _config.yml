@@ -13,19 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MUTATION 2018
+title: MUTATION 2019
 #email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  Mutation Analysis Workshop 2018
+  Mutation Analysis Workshop 2019
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "mutation-workshop.github.io" # the base hostname & protocol for your site
+url: "mutation2019.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 future: true
 facebook:
   app_id: 
 
-logo: "../css/2018_style/img/icon-large.png"
+# We do not have a logo
+logo: "blank.png"
 
 #social: 
 #  name: Your Facebook Page
@@ -33,7 +34,7 @@ logo: "../css/2018_style/img/icon-large.png"
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_2018_pages']
+include: ['_pages']
 
 plugins:
   - jekyll-sitemap

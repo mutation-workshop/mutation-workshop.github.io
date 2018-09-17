@@ -1,9 +1,0 @@
-~/Systems/mutation-workshop.github.io/2018/2018_teams/_posts> ls
-2018-05-31-team-1.markdown	2018-05-31-team-2.markdown	2018-05-31-team-3.markdown
-~/Systems/mutation-workshop.github.io/2018/2018_teams/_posts> mv 2018-05-31-team-1.markdown 2018-01-01-team-1.markdown
-~/Systems/mutation-workshop.github.io/2018/2018_teams/_posts> mv 2018-05-31-team-2.markdown 2018-01-02-team-2.markdown
-~/Systems/mutation-workshop.github.io/2018/2018_teams/_posts> mv 
-2018-05-31-team-3.markdown  ^C ^C
-~/Systems/mutation-workshop.github.io/2018/2018_teams/_posts> 
-~/Systems/mutation-workshop.github.io/2018/2018_teams/_posts> 
-~/Systems/mutation-workshop.github.io/2018/2018_teams/_posts> mv 2018-05-31-team-3.markdown 2018-01-03-team-3.markdown

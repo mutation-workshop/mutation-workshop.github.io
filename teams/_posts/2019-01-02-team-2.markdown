@@ -1,0 +1,11 @@
+---
+title: Dr
+name: Marinos Kintis
+subtitle: University of Luxembourg
+layout: default
+img: marinos.jpg
+thumbnail: marinos.jpg
+alt: Marinos Kintis
+website: https://wwwfr.uni.lu/snt/people/marinos_kintis
+description: Blah blah blah
+---
