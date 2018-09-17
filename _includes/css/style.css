@@ -337,7 +337,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     height: 100vh;
     text-align: center;
-    color: #000;
+    color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/css/style/img/xian.jpg');
     background-position: center center;
