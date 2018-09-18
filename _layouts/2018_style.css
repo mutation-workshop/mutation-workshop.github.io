@@ -1,4 +1,0 @@
-{% include 2018_css/bootstrap.min.css %}
-{% include 2018_css/agency.css %}
-{% include 2018_css/style.css %}
-{{ content }}
