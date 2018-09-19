@@ -32,9 +32,9 @@ logo: "blank.png"
 #  name: Your Facebook Page
 #  link: "https://www.facebook.com/"
 
-google_site_verification: googleXXXXXXXXXXXXXXXX.html
+# google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_pages']
+# include: ['_pages']
 
 plugins:
   - jekyll-sitemap
