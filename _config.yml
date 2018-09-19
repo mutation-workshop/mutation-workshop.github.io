@@ -22,7 +22,7 @@ url: "mutation-workshop.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 future: true
-theme: minima
+remote_theme: brume
 # We do not have a logo
 logo: "blank.png"
 
