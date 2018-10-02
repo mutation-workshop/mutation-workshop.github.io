@@ -1,0 +1,79 @@
+CALL FOR PAPERS
+
+Mutation 2014: The 9th International Workshop on Mutation Analysis
+March 31, 2014, Cleveland, USA
+
+
+https://sites.google.com/2014/
+
+Co-located with ICST 2014 (7th International Conference on Software Testing, Verification and Validation)
+
+About Mutation 2014:
+--------------------------------
+Mutation is acknowledged as an important way to assess the fault-finding effectiveness of test sets. Mutation testing has mostly been applied at the source code level, but more recently, related ideas have also been used to test artifacts described in a considerable variety of notations and at different levels of abstraction. Mutation ideas are used with requirements, formal specifications, architectural design notations, informal descriptions (e.g. use cases) and hardware. Mutation is now established as a major concept in software and systems V&V and uses of mutation are increasing. The goal of the Mutation workshop is to provide a forum for researchers and practitioners to discuss new and emerging trends in mutation analysis. We invite submissions of both full-length and short-length research papers as well as industry practice papers.
+
+Topics of interest:
+-----------------------
+- Mutation-based test adequacy criteria (theory or practical application).
+- Mutation-based test data generation.
+- Higher order mutation testing.
+- Novel mutation testing paradigms and applications.
+- Empirical studies of mutation testing.
+- Formal theoretical analysis of mutation testing.
+- Comparative studies (i.e., studies that compare mutation with other testing techniques).
+- Mutation testing tools.
+- Industrial experience with mutation testing.
+- New mutation systems for programming languages and for higher-level descriptive.
+- Increasing the efficiency of mutation. 
+- Mutation for mobile, internet and cloud based systems. 
+- Mutation for security and reliability.
+
+
+Submissions & Publication:
+------------------------------------
+Two types of papers can be submitted to the workshop:
+- Full papers (10 pages): Research, case studies
+- Short papers (6 pages): Research in progress, tools, experience reports, problem descriptions, new ideas
+- Industrial papers (6 pages)
+
+Each submitted paper must conform to the two-column IEEE conference publication format (http://www.computer.org/portal/web/cscps/formatting), must be submitted in PDF. 
+Submissions will be evaluated according to the relevance and originality of the work and to their ability to generate discussions between the participants of the workshop. Each paper will be reviewed by three reviewers, and accepted papers will be published as part of the ICST proceedings.
+
+
+Important Dates:
+---------------------
+Submission of full papers: January 20th, 2014
+Notification of acceptance: February 10th, 2014
+Date of workshop: March 31st, 2014
+
+Organization:
+-----------------
+- Mike Papadakis, University of Luxembourg, Luxembourg
+- Tejeddine Mouelhi, University of Luxembourg, Luxembourg
+- Haitao Dan, University College London, UK
+
+Program Committee:
+---------------------------
+- Paul Ammann, George Mason University, USA
+- Benoit Baudry, INRIA, France
+- Leonardo Bottaci, University of Hull, UK
+- Lydie du Bousquet, Laboratoire d'Informatique de Grenoble (LIG), France
+- Jeremy Bradbury, Univ. of Ontario Institute of Technology, Canada
+- Byoungju Choi, EWHA Womans University,South Korea
+- Marcio Dellamaro, Universidade de Sao Paolo, Brasil
+- Gordon Fraser, University of Sheffield, UK
+- Mark Harman, University College London, UK
+- Rob Hierons, Brunel University, UK
+- Bill Howden, University of California at San Diego, USA 
+- Yue Jia, University College London, UK
+- Jose Carlos Maldonado, Universidade de Sao Paolo, Brasil
+- Nicos Malevris, Athens University of Economics and Business,Greece
+- Phil McMinn, University of Sheffield, UK
+- Mercedes G. Merayo, Universidad Complutense de Madrid, Spain
+- Akbar Siami Namin, Texas Tech University, USA
+- Jeff Offutt, George Mason University, USA
+- Macario Polo, University of Castilla-La Mancha, Spain
+- Simone Souza, Universidade of São Paulo, Brasil
+- Yves Le Traon, University of Luxembourg, Luxembourg
+- Auri Vincenzi, Universidade Federal de Goiás, Brasil
+- Lu Zhang, Peking University, China
