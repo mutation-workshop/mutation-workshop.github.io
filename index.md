@@ -69,5 +69,5 @@ North Carolina, USA (associated with [ISSRE 2006](http://www.csc2.ncsu.edu/confe
  
 ## Mutaiton 2000
 
-[1st International Workshop on Mutation analysis](http://www.utdallas.edu/~ewong/Mutation2000/)
+[1st International Workshop on Mutation analysis](/2000/)
 San Jose, USA
