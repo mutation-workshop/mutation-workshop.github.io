@@ -11,12 +11,12 @@
 <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/__data/assets/css_file/0004/346153/ie8.css" media="all" /><![endif]-->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script async src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script async src="/__data/assets/js_file/0008/38753/combined-min.js"></script>
-<script async src="/__data/assets/js_file/0008/38672/minified-home-scripts.js"></script><!-- main banner -->
-<script async src="/__data/assets/js_file/0016/337102/head.min.js"></script>
-<script async src="/__data/assets/js_file/0006/343194/jquery.fancybox.pack.js"></script>
-<script async src="/__data/assets/js_file/0011/343649/modernizr-2.7.1.min.js"></script>
-<script async src="/__data/assets/js_file/0009/346149/cssfx.min.js"></script>
+<script async src="/2013/assets/js_file/combined-min.js"></script>
+<script async src="/2013/assets/js_file/minified-home-scripts.js"></script><!-- main banner -->
+<script async src="/2013/assets/js_file/head.min.js"></script>
+<script async src="/2013/assets/js_file/jquery.fancybox.pack.js"></script>
+<script async src="/2013/assets/js_file/modernizr-2.7.1.min.js"></script>
+<script async src="/2013/assets/js_file/cssfx.min.js"></script>
 
 <script type="text/javascript"><!-- // 
 (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
@@ -146,7 +146,7 @@
             
 <h1 class='page-title'>News</h1>
                 
-		<p><img src="http://sites.brunel.ac.uk/__data/assets/image/0010/236755/mutation-logo.jpg" alt=" " style="border: 0px solid rgb(0, 0, 0);" /><br /></p>
+		<p><img src="/2013/assets/image/0010/236755/mutation-logo.jpg" alt=" " style="border: 0px solid rgb(0, 0, 0);" /><br /></p>
 
 <p>[06.03.2013] Program announced. &nbsp;<br /></p>
 
