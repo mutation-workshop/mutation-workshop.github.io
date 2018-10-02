@@ -56,7 +56,7 @@ Paris, France (associated with [ICST 2010](http://vps.it-sudparis.eu/icst2010/))
 [4th International Workshop on Mutation analysis](http://www.ist.tugraz.at/mutation2009/)
 Denver, USA (associated with [ICST 2009](http://bitterroot.vancouver.wsu.edu/icst2009/))
 
-## Mutation 2008
+## Mutation 2007
 
 [3rd International Workshop on Mutation analysis](http://cs.gmu.edu/mutation2007/)
 Windsor, UK (associated with [TAIC PART 2007](http://www2007.taicpart.org/))
