@@ -1,0 +1,195 @@
+		
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" xml:lang="en" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" xml:lang="en" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" xml:lang="en" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" xml:lang="en" lang="en"><!--<![endif]-->
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Keynote | Brunel University London</title><link rel="shortcut icon" href="//www.brunel.ac.uk/__brunel_brand/icons/fav/favicon.ico" /><meta name="msapplication-TileColor" content="#00325b" /><meta name="application-name" content="Keynote | Brunel University London"/><meta name="msapplication-TileImage" content="//www.brunel.ac.uk/__brunel_brand/icons/win/brunel-144.png" /><meta name="msapplication-config" content="//www.brunel.ac.uk/__brunel_brand/icons/win/browserconfig.xml"/><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon72.png"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon57.png" sizes="57x57"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon72.png" sizes="72x72"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon76.png" sizes="76x76"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon114.png" sizes="114x114"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon120.png" sizes="120x120"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon144.png" sizes="144x144"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon152.png" sizes="152x152"><link href="//www.brunel.ac.uk/__brunel_brand/0/main-styles.css" rel="stylesheet" type="text/css"/><!--[if lt IE 8]><![endif]--><!--[if IE 6]><![endif]-->			<link rel="stylesheet" type="text/css" href="http://sites.brunel.ac.uk/_designs/css/extranets/cmsb2012.css" media="all" />
+					<script async>if (/*@cc_on!@*/false) { document.documentElement.className += ' ie'; document.documentElement.className += ' ie10'; }</script>
+<!--[if gte IE 9]><style type="text/css">.g{filter: none;}</style><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/__data/assets/css_file/0004/346153/ie8.css" media="all" /><![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script async src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script async src="/__data/assets/js_file/0008/38753/combined-min.js"></script>
+<script async src="/__data/assets/js_file/0008/38672/minified-home-scripts.js"></script><!-- main banner -->
+<script async src="/__data/assets/js_file/0016/337102/head.min.js"></script>
+<script async src="/__data/assets/js_file/0006/343194/jquery.fancybox.pack.js"></script>
+<script async src="/__data/assets/js_file/0011/343649/modernizr-2.7.1.min.js"></script>
+<script async src="/__data/assets/js_file/0009/346149/cssfx.min.js"></script>
+
+<script type="text/javascript"><!-- // 
+(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+// -->
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3621200-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+			<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" /><meta name="title" content="Keynote | Brunel University London" /><meta name="DC.date" content="2012-11-16" /><meta name="DC.format" content="text/html" /><meta name="DC.rights" content="Brunel University" /><meta name="DC.identifier" content="237032" /><meta name="DC.language" content="English" /><meta name="keywords" content="Brunel University, London, brunel university, brunel, courses, undergraduate, postgraduate" />
+		
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 02 October 2018 13:57:17
+-->
+
+
+</head>
+<body>
+<div id="home">
+<div class="header-wrap">    
+   <div class="header-border">
+    <div id="header">
+        
+			<div class="left-side">
+<div class="main-text"><span><font color="#254117">Mutation 2013</font></span>
+<font color="#387c44">The 8th International Workshop on Mutation Analysis</font></div>
+
+<div class="date">18 March 2013</div>
+<div class="location">Luxembourg (associated with <a href="http://www.icst.lu/">ICST 2013</a>)</div>
+
+</div>
+<div class="right-side">
+<a href="http://www.brunel.ac.uk"><img src="//www.brunel.ac.uk/__brunel_brand/logo/brunel-logo-60.png" alt="Brunel Universtiy London" /></a>
+</div>
+<div class="clear"></div>			
+        <div id="logo"><a href="/">Brunel University London</a></div>
+        
+    </div><!-- end #header-->
+  </div>
+</div>
+<div class="navigation-wrap"> 
+  <div class="navigation-border">        
+    <div id="navigation">
+    <div class="clear"></div>
+    </div><!-- end #navigation -->
+  </div>
+</div>
+
+<div class="container-wrap">
+  <div class="container-border"> 
+    <div id="container" class="col-2">
+
+			<div id="left-sidebar">			
+
+  
+             <p class="section-name">
+                
+               
+                 
+                 
+                 
+                 
+                 
+                  <a href="/2013">Home</a>
+                 
+              </p>
+
+		
+    <ul>
+                    <li>
+                <a href="/2013/people" class="normal">
+                    Organisation                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/submisstion" class="normal">
+                    Submission                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/important-dates" class="normal">
+                    Important dates                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/keynote" class="current">
+                    Keynote                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/program" class="normal">
+                    Program                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/accepted-papers" class="normal">
+                    Accepted papers                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/news" class="normal">
+                    News                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/downloads" class="normal">
+                    Downloads                </a>
+                		
+            </li>
+            </ul>
+
+				</div>			
+        <div class="content">
+            
+<h1 class='page-title'>Keynote</h1>
+                
+		<p><img src="http://sites.brunel.ac.uk/__data/assets/image/0010/236755/mutation-logo.jpg" alt=" " style="border: 0px solid rgb(0, 0, 0);" /><br /></p>
+
+<table id="rob" style="width: 100%;" frame="void" rules="none" border="1" cellpadding="" cellspacing="">
+  <tbody>
+    <tr>
+      <td id="rob_td0_0" style=" style="><img src="http://sites.brunel.ac.uk/__data/assets/image/0005/250952/RHierons.jpg" alt="Professor Rob Hierons" style="border: 0px solid rgb(0, 0, 0);" /><br /></td>
+
+      <td id="rob_td0_1" style=" style="><strong>Rob Hierons</strong>, Brunel University, UK<br />
+      <br />
+      Rob Hierons received a BA in Mathematics (Trinity College, Cambridge), and a Ph.D. in Computer Science (Brunel University). He then joined the Department of Mathematical and Computing Sciences at Goldsmiths College, University of London, before returning to Brunel University in 2000. He was promoted to full Professor in 2003.</td>
+    </tr>
+  </tbody>
+</table>&nbsp;
+
+<p><br />
+&nbsp;<br />
+<strong>Title:</strong> Semantic Mutation Testing<br />
+<br />
+<strong>Abstract:</strong> Mutation testing uses operators to simulate potential faults in a software artefact. Traditional mutation operators make small syntactic changes and so can be seen as simulating slips made by the developer. However, a developer might make mistakes in their understanding of the semantics of the language used; in semantic mutation testing we simulate such potential misunderstandings through semantic mutation operators. The aim is therefore to capture a different class of possible mistake. This talk will describe semantic mutation testing and scenarios in which it might be particularly valuable and will say a little about our experiences in applying it to drive testing to find floating point comparison problems in C code.<br /></p>
+ 
+        </div><!-- end .content-->
+
+        
+            
+            
+            
+            
+            
+        
+        
+<div class="clear"></div>
+    </div><!-- end #container -->
+  </div>
+<div class="clear"></div>
+</div>
+    
+			<div id="footer"><p>&nbsp;</p>
+
+<div class="clear"></div>
+</div><!-- end #footer-->			
+</div> <!-- end #wrapper-->
+
+
+
+
+</body>
+</html>

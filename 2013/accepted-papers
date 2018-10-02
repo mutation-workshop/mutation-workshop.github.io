@@ -1,0 +1,193 @@
+		
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" xml:lang="en" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" xml:lang="en" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" xml:lang="en" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" xml:lang="en" lang="en"><!--<![endif]-->
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Accepted papers | Brunel University London</title><link rel="shortcut icon" href="//www.brunel.ac.uk/__brunel_brand/icons/fav/favicon.ico" /><meta name="msapplication-TileColor" content="#00325b" /><meta name="application-name" content="Accepted papers | Brunel University London"/><meta name="msapplication-TileImage" content="//www.brunel.ac.uk/__brunel_brand/icons/win/brunel-144.png" /><meta name="msapplication-config" content="//www.brunel.ac.uk/__brunel_brand/icons/win/browserconfig.xml"/><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon72.png"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon57.png" sizes="57x57"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon72.png" sizes="72x72"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon76.png" sizes="76x76"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon114.png" sizes="114x114"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon120.png" sizes="120x120"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon144.png" sizes="144x144"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon152.png" sizes="152x152"><link href="//www.brunel.ac.uk/__brunel_brand/0/main-styles.css" rel="stylesheet" type="text/css"/><!--[if lt IE 8]><![endif]--><!--[if IE 6]><![endif]-->			<link rel="stylesheet" type="text/css" href="http://sites.brunel.ac.uk/_designs/css/extranets/cmsb2012.css" media="all" />
+					<script async>if (/*@cc_on!@*/false) { document.documentElement.className += ' ie'; document.documentElement.className += ' ie10'; }</script>
+<!--[if gte IE 9]><style type="text/css">.g{filter: none;}</style><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/__data/assets/css_file/0004/346153/ie8.css" media="all" /><![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script async src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script async src="/__data/assets/js_file/0008/38753/combined-min.js"></script>
+<script async src="/__data/assets/js_file/0008/38672/minified-home-scripts.js"></script><!-- main banner -->
+<script async src="/__data/assets/js_file/0016/337102/head.min.js"></script>
+<script async src="/__data/assets/js_file/0006/343194/jquery.fancybox.pack.js"></script>
+<script async src="/__data/assets/js_file/0011/343649/modernizr-2.7.1.min.js"></script>
+<script async src="/__data/assets/js_file/0009/346149/cssfx.min.js"></script>
+
+<script type="text/javascript"><!-- // 
+(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
+// -->
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3621200-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+			<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" /><meta name="title" content="Accepted papers | Brunel University London" /><meta name="DC.date" content="2013-03-15" /><meta name="DC.format" content="text/html" /><meta name="DC.rights" content="Brunel University" /><meta name="DC.identifier" content="237040" /><meta name="DC.language" content="English" /><meta name="keywords" content="Brunel University, London, brunel university, brunel, courses, undergraduate, postgraduate" />
+		
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 02 October 2018 13:57:19
+-->
+
+
+</head>
+<body>
+<div id="home">
+<div class="header-wrap">    
+   <div class="header-border">
+    <div id="header">
+        
+			<div class="left-side">
+<div class="main-text"><span><font color="#254117">Mutation 2013</font></span>
+<font color="#387c44">The 8th International Workshop on Mutation Analysis</font></div>
+
+<div class="date">18 March 2013</div>
+<div class="location">Luxembourg (associated with <a href="http://www.icst.lu/">ICST 2013</a>)</div>
+
+</div>
+<div class="right-side">
+<a href="http://www.brunel.ac.uk"><img src="//www.brunel.ac.uk/__brunel_brand/logo/brunel-logo-60.png" alt="Brunel Universtiy London" /></a>
+</div>
+<div class="clear"></div>			
+        <div id="logo"><a href="/">Brunel University London</a></div>
+        
+    </div><!-- end #header-->
+  </div>
+</div>
+<div class="navigation-wrap"> 
+  <div class="navigation-border">        
+    <div id="navigation">
+    <div class="clear"></div>
+    </div><!-- end #navigation -->
+  </div>
+</div>
+
+<div class="container-wrap">
+  <div class="container-border"> 
+    <div id="container" class="col-2">
+
+			<div id="left-sidebar">			
+
+  
+             <p class="section-name">
+                
+               
+                 
+                 
+                 
+                 
+                 
+                  <a href="/2013">Home</a>
+                 
+              </p>
+
+		
+    <ul>
+                    <li>
+                <a href="/2013/people" class="normal">
+                    Organisation                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/submisstion" class="normal">
+                    Submission                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/important-dates" class="normal">
+                    Important dates                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/keynote" class="normal">
+                    Keynote                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/program" class="normal">
+                    Program                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/accepted-papers" class="current">
+                    Accepted papers                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/news" class="normal">
+                    News                </a>
+                		
+            </li>
+                    <li>
+                <a href="/2013/downloads" class="normal">
+                    Downloads                </a>
+                		
+            </li>
+            </ul>
+
+				</div>			
+        <div class="content">
+            
+<h1 class='page-title'>Accepted papers</h1>
+                
+		<p><img src="http://sites.brunel.ac.uk/__data/assets/image/0010/236755/mutation-logo.jpg" alt=" " style="border: 0px solid rgb(0, 0, 0);" />&nbsp;</p>
+
+<p><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Antonia Bertolino, Said Daoudagh, Francesca Lonetti and Eda Marchetti.<br class="kix-line-break" /></span><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">XACMUT: XACML 2.0 Mutants Generator<br class="kix-line-break" /></span><br />
+<span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Mark Hadley and John A. Clark.<br class="kix-line-break" /></span> <span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Good Days and Bad Days: Investigating Effectiveness and Reliability of “Optimum” Test Sets<br class="kix-line-break" /></span><br />
+<span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Iram Rubab, Phu H. Nguyen and Mike Papadakis.<br class="kix-line-break" /></span><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Testing Delegation Policy via Mutation Analysis</span></p>
+
+<p><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Yasser Khan and Jameleddine Hassine.<br class="kix-line-break" /></span><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Mutation Operators for the Atlas Transformation Language<br class="kix-line-break" /></span><br />
+<span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Matthew Patrick, Rob Alexander, Manuel Oriol and John Clark.<br class="kix-line-break" /></span></span><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Using Mutation Analysis to Evolve Subdomains for Random Testing</span></span></p>
+
+<p><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;"><br />
+<span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Chris Wright, Gregory Kapfhammer and Phil McMinn.<br class="kix-line-break" /></span><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Efficient Mutation Analysis of Relational Database Structure Using Mutant Schemata and Parallelisation</span><br /></span></p>
+
+<p><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">&nbsp;</span></p>
+
+<p><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">&nbsp;</span></p>
+
+<p><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">&nbsp;</span></p>
+ 
+        </div><!-- end .content-->
+
+        
+            
+            
+            
+            
+            
+        
+        
+<div class="clear"></div>
+    </div><!-- end #container -->
+  </div>
+<div class="clear"></div>
+</div>
+    
+			<div id="footer"><p>&nbsp;</p>
+
+<div class="clear"></div>
+</div><!-- end #footer-->			
+</div> <!-- end #wrapper-->
+
+
+
+
+</body>
+</html>
