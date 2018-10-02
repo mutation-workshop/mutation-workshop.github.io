@@ -8,15 +8,15 @@
 <head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Accepted papers | Brunel University London</title><link rel="shortcut icon" href="//www.brunel.ac.uk/__brunel_brand/icons/fav/favicon.ico" /><meta name="msapplication-TileColor" content="#00325b" /><meta name="application-name" content="Accepted papers | Brunel University London"/><meta name="msapplication-TileImage" content="//www.brunel.ac.uk/__brunel_brand/icons/win/brunel-144.png" /><meta name="msapplication-config" content="//www.brunel.ac.uk/__brunel_brand/icons/win/browserconfig.xml"/><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon72.png"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon57.png" sizes="57x57"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon72.png" sizes="72x72"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon76.png" sizes="76x76"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon114.png" sizes="114x114"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon120.png" sizes="120x120"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon144.png" sizes="144x144"><link rel="apple-touch-icon" href="//www.brunel.ac.uk/__brunel_brand/icons/apple/icon152.png" sizes="152x152"><link href="//www.brunel.ac.uk/__brunel_brand/0/main-styles.css" rel="stylesheet" type="text/css"/><!--[if lt IE 8]><![endif]--><!--[if IE 6]><![endif]-->			<link rel="stylesheet" type="text/css" href="/2013/assets/css/cmsb2012.css" media="all" />
 					<script async>if (/*@cc_on!@*/false) { document.documentElement.className += ' ie'; document.documentElement.className += ' ie10'; }</script>
 <!--[if gte IE 9]><style type="text/css">.g{filter: none;}</style><![endif]-->
-<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/__data/assets/css_file/0004/346153/ie8.css" media="all" /><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/2013/assets/css_file/0004/346153/ie8.css" media="all" /><![endif]-->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script async src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script async src="/__data/assets/js_file/0008/38753/combined-min.js"></script>
-<script async src="/__data/assets/js_file/0008/38672/minified-home-scripts.js"></script><!-- main banner -->
-<script async src="/__data/assets/js_file/0016/337102/head.min.js"></script>
-<script async src="/__data/assets/js_file/0006/343194/jquery.fancybox.pack.js"></script>
-<script async src="/__data/assets/js_file/0011/343649/modernizr-2.7.1.min.js"></script>
-<script async src="/__data/assets/js_file/0009/346149/cssfx.min.js"></script>
+<script async src="/2013/assets/js_file/combined-min.js"></script>
+<script async src="/2013/assets/js_file/minified-home-scripts.js"></script><!-- main banner -->
+<script async src="/2013/assets/js_file/head.min.js"></script>
+<script async src="/2013/assets/js_file/jquery.fancybox.pack.js"></script>
+<script async src="/2013/assets/js_file/modernizr-2.7.1.min.js"></script>
+<script async src="/2013/assets/js_file/cssfx.min.js"></script>
 
 <script type="text/javascript"><!-- // 
 (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
@@ -146,7 +146,7 @@
             
 <h1 class='page-title'>Accepted papers</h1>
                 
-		<p><img src="http://sites.brunel.ac.uk/__data/assets/image/0010/236755/mutation-logo.jpg" alt=" " style="border: 0px solid rgb(0, 0, 0);" />&nbsp;</p>
+		<p><img src="/2013/assets/image/0010/236755/mutation-logo.jpg" alt=" " style="border: 0px solid rgb(0, 0, 0);" />&nbsp;</p>
 
 <p><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Antonia Bertolino, Said Daoudagh, Francesca Lonetti and Eda Marchetti.<br class="kix-line-break" /></span><span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">XACMUT: XACML 2.0 Mutants Generator<br class="kix-line-break" /></span><br />
 <span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Mark Hadley and John A. Clark.<br class="kix-line-break" /></span> <span style="font-size:16px;font-family:&#39;Times New Roman&#39;;color:#000000;background-color:transparent;font-weight:normal;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;">Good Days and Bad Days: Investigating Effectiveness and Reliability of “Optimum” Test Sets<br class="kix-line-break" /></span><br />
