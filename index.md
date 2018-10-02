@@ -63,11 +63,11 @@ Windsor, UK (associated with [TAIC PART 2007](http://www2007.taicpart.org/))
 
 ## Mutation 2006
 
-[2nd International Workshop on Mutation analysis](/2006/)
+[2nd International Workshop on Mutation analysis](https://www.irisa.fr/manifestations/2006/Mutation2006/)
 North Carolina, USA (associated with [ISSRE 2006](http://www.csc2.ncsu.edu/conferences/issre/))
 
  
 ## Mutaiton 2000
 
-[1st International Workshop on Mutation analysis](/2000/)
-San Jose, USA
+[1st International Workshop on Mutation analysis](http://www.utdallas.edu/~ewong/Mutation2000/)
+San Jose, USA (organized a day before [ISSRE 2000](http://www.rstcorp.com/conferences/issre2000))
