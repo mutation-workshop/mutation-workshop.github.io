@@ -1,0 +1,73 @@
+CALL FOR PAPERS
+
+Mutation 2009: The 4th International Workshop on Mutation Analysis
+April 4, 2009, Denver, Colorado, USA
+
+http://mutation2009.ist.tugraz.at/
+
+Co-located with ICST 2009 (2nd International Conference on Software Testing, Verification and Validation)
+
+About Mutation 2009:
+--------------------------------
+Mutation is acknowledged as an important way to assess the fault-finding effectiveness of tests sets. Mutation testing has mostly been applied at the source code level, but more recently, related ideas have also been used to test artifacts described in a considerable variety of notations and at different levels of abstraction. Mutation ideas are used with requirements, formal specifications, architectural design notations, informal descriptions (e.g. use cases) and hardware. Mutation is now established as a major concept in software and systems V&V and uses of mutation are increasing. The goal of the Mutation workshop is to provide a forum for researchers and practitioners to discuss new and emerging trends in mutation analysis. We invite submissions of both full-length and short-length research papers as well as industry practice papers.
+
+Keynote Speaker:
+-----------------------
+- Jeff Offutt, George Mason University, USA
+
+Topics of interest:
+-----------------------
+- Mutation-based test adequacy criteria (theory or practical application).
+- Using mutation in empirical studies (e.g. studies that compare mutation with other testing techniques).
+- Industrial experience with mutation.
+- New mutation systems for programming languages (e.g. for languages not yet addressed, or offering improvements on existing ones) and for higher-level descriptive notations (e.g. formal specification notations and architectural design notations).
+- Novel applications of mutation including mutation for QoS properties (security, performance, etc.).
+
+Submissions & Publication:
+------------------------------------
+Three types of papers can be submitted to the workshop:
+- Long research papers (10 pages)
+- Short research papers (5 pages)
+- Industrial practice papers (7 pages)
+Each submitted paper must conform to the IEEE format and submission guidelines. Three reviewers will review each paper submission and accepted papers will be published in the IEEE Digital Library.
+
+Important Dates:
+---------------------
+Submission of full papers: January 9, 2009
+Notification of acceptance: February 27, 2009
+Camera-ready papers due: March 20, 2009
+Date of workshop: April 4, 2009 
+
+Organization:
+-----------------
+- Benoit Baudry, INRIA, France 
+- Jeremy S. Bradbury, University of Ontario Institute of Technology, Canada
+- Gordon Fraser, Graz University of Technology, Austria
+
+Program Committee:
+---------------------------
+- Roger Alexander, Washington State University, USA
+- Paul Ammann, George Mason University, USA
+- Leonardo Bottaci, University of Hull, UK
+- Byoungju Choi, EWHA Womans University, South Korea
+- John A Clark, University of York, UK
+- James R. Cordy, Queen's University, Canada
+- Rich DeMillo, Georgia Tech, USA
+- Sudipto Ghosh, Purdue University, USA
+- Mark Hampton, Certess
+- Mark Harman, King's College, UK
+- Rob Hierons, Brunel University, UK
+- Bill Howden, University of California at San Diego, USA
+- Yong-Rae Kwon, Korea Advanced Institute of Science and Technology, South Korea
+- Richard Lipton, Georgia Tech, USA
+- Ling Liu, ETH Zuerich, Switzerland
+- Jose Carlos Maldonado, Universidade de Sao Paolo, Brazil
+- Aditya Mathur, Purdue University, USA
+- Mercedes Merayo, Universidad Complutense de Madrid, Spain
+- Phil McMinn, University of Sheffield, UK
+- Akbar Siami Namin, University of Western Ontario, Canada
+- Jeff Offutt, George Mason University, USA
+- Yves Le Traon, ENST Bretagne, France
+- Laurie Williams, North Carolina State University, USA
+- Eric Wong, University of Texas at Dallas, USA
+- Lu Zhang, Peking University, China 
