@@ -1,0 +1,67 @@
+CALL FOR PAPERS
+
+Mutation 2012: The 7th International Workshop on Mutation Analysis
+April 17, 2012, Montreal, Canada
+
+http://www.cs.ucl.ac.uk/mutation2012/
+
+Co-located with ICST 2012 (5th IEEE International Conference on Software Testing, Verification and Validation)
+
+About Mutation 2012:
+--------------------------------
+Mutation is acknowledged as an important way to assess the fault-finding effectiveness of tests sets. Mutation testing has mostly been applied at the source code level, but more recently, related ideas have also been used to test artifacts described in a considerable variety of notations and at different levels of abstraction. Mutation ideas are used with requirements, formal specifications, architectural design notations, informal descriptions (e.g. use cases) and hardware. Mutation is now established as a major concept in software and systems V&V and uses of mutation are increasing. The goal of the Mutation workshop is to provide a forum for researchers and practitioners to discuss new and emerging trends in mutation analysis. We invite submissions of both full-length and short-length research papers as well as industry practice papers.
+
+
+Topics of interest:
+-----------------------
+- Mutation-based test adequacy criteria (theory or practical application).
+- Mutation testing using higher order mutants.
+- Test-case generation using mutants.
+- Using mutation in empirical studies (e.g. studies that compare mutation with other testing techniques).
+- Industrial experience with mutation.
+- New mutation systems for programming languages (e.g. for languages not yet addressed, or offering improvements on existing ones) and for higher-level descriptive notations (e.g. formal specification notations and architectural design notations).
+- Mutation for Internet Systems (QoS, security, performance, etc.).
+- Novel applications of mutation.
+
+Submissions & Publication:
+------------------------------------
+Three types of papers can be submitted to the workshop:
+- Full papers (10 pages): Research, case studies
+- Short papers (6 pages): Research in progress, tools, experience reports, problem descriptions, new ideas.
+- Industrial papers (6 pages).
+
+Each submitted paper must conform to the two-column IEEE conference publication format (http://www.computer.org/portal/web/cscps/formatting), must be submitted in PDF format and submission guidelines. 
+Submissions will be evaluated according to the relevance and originality of the work and to their ability to generate discussions between the participants of the workshop.  Each paper will be reviewed by three reviewers, and accepted papers will be published as part of the ICST proceedings. 
+
+Important Dates:
+---------------------
+Submission of full papers: January 22, 2012 
+Notification of acceptance: February 24, 2012
+Camera ready: March 9, 2012
+Date of workshop: April 17, 2012
+
+Organization:
+-----------------
+- Yue Jia,  University College London, United Kingdom
+- Mercedes G. Merayo, University Complutense of Madrid, Spain
+
+Program Committee:
+---------------------------
+- Paul Ammann , George Mason University, USA
+- Benoit Baudry , INRIA, France
+- Leonardo Bottaci , University of Hull, UK
+- Lydie du Bousquet , Laboratoire d'Informatique de Grenoble (LIG), France
+- Jeremy Bradbury , Univ. of Ontario Institute of Technology, Canada
+- Byoungju Choi , EWHA Womans University,South Korea
+- Gordon Fraser , Saarland University,Germany
+- Mark Harman , University College London, UK
+- Rob Hierons , Brunel University, UK
+- Bill Howden , University of California at San Diego, USA
+- Jose Carlos Maldonado, Universidade de Sao Paolo, Brasil
+- Phil McMinn , University of Sheffield, UK
+- Akbar Siami Namin , Texas Tech University, USA
+- Jeff Offutt , George Mason University, USA
+- Macario Polo , University of Castilla-La Mancha, Spain
+- Yves Le Traon, University of Luxembourg, Luxembourg
+- Eric Wong, University of Texas at Dallas, USA
+- Lu Zhang , Peking University, China 

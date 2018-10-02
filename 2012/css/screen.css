@@ -1,0 +1,10 @@
+/* theme screen stylesheets */
+
+/* import stylesheets and hide from ie/mac \*/
+@import url("reset.css");
+@import url("FreshPick.css");
+/* end import/hide */#deadline {
+	font-weight: bold;
+	color: #FF0000;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, Sans-Serif;
+}
