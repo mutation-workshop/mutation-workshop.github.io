@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Mutation 2006"
+date:   2006-11-07
+---
+
+The [2nd International Workshop on Mutation analysis](https://www.irisa.fr/manifestations/2006/Mutation2006/)
+North Carolina, USA (associated with [ISSRE 2006](http://www.csc2.ncsu.edu/conferences/issre/))
+
+You can find the archive [here](/2006/).
+

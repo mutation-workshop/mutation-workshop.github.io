@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mutation 2019"
+date:   2019-04-20
+---
+
+The [14th International Workshop on Mutation analysis](/2019/)
+Xian, Chian (associated with [ICST 2019](http://icst2019.xjtu.edu.cn/))

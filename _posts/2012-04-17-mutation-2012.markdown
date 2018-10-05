@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mutation 2012"
+date:   2012-04-17
+---
+
+The [7th International Workshop on Mutation analysis](http://www0.cs.ucl.ac.uk/mutation2012/)
+Montreal, Canada (associated with [ICST 2012](http://icst2012.soccerlab.polymtl.ca/Content/home/))
+
+You can find the archive [here](/2012/).

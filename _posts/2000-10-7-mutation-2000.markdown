@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mutation 2000"
+date:   2000-10-06
+---
+
+The [1st International Workshop on Mutation analysis](http://www.utdallas.edu/~ewong/Mutation2000/) San Jose, USA (organized a day before [ISSRE 2000](http://www.rstcorp.com/conferences/issre2000)).
+
+You can find the archive [here](/2000/)
+

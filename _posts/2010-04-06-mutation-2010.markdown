@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mutation 2010"
+date:   2010-04-06
+---
+
+The [5th International Workshop on Mutation analysis](http://www.st.cs.uni-saarland.de/mutation2010/)
+Paris, France (associated with [ICST 2010](http://vps.it-sudparis.eu/icst2010/))
+
+You can find the archive [here](/2010/).

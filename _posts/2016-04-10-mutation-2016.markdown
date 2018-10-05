@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Mutation 2016"
+date:   2016-04-10
+---
+
+The [11th International Workshop on Mutation analysis](https://sites.google.com/site/mutation2016/)
+Chicago, IL, USA (associated with [ICST 2016](http://www.cs.uic.edu/~icst2016))
+
+You can find the archive [here](/2016/).
+
