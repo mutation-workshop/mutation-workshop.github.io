@@ -5,7 +5,7 @@ date:   2015-04-13
 ---
 
 The [10th International Workshop on Mutation analysis](https://sites.google.com/site/mutationworkshop2015/)
-Cleveland, USA (associated with [ICST 2015](https://sites.google.com/site/icst2015/))
+Graz, Austria (associated with [ICST 2015](https://sites.google.com/site/icst2015/))
 
 You can find the archive [here](/2015/).
 
