@@ -1,0 +1,18 @@
+---
+title: Mike Papadakis
+name: speaker-01
+position: Professor of Software Engineering
+affiliation: Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg
+layout: default
+modal-id: 2
+img: mikepapadakis.jpg
+thumbnail: mikepapadakis.jpg
+alt: Mike Papadakis
+website:  https://sites.google.com/site/mikepapadakis/
+topic: >
+ XXX
+abstract: > 
+ -
+bio: >
+ 
+---

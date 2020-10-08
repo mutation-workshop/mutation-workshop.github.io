@@ -1,0 +1,48 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.categories.speakers %}
+    <div class="portfolio-modal modal fade" id="{{ post.name }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h4>{{ post.title }}</h4>
+                            <hr class="star-primary">
+                            {% assign slides = post.slides | strip_newlines %}
+                            {% assign haswebsite = post.website | strip_newlines %}
+                            {% unless haswebsite == "" %}
+                               <a href="{{ post.website }}">
+                            {% endunless %}
+                               <img src="{{ site.baseurl }}/css/style/img/speaker/{{ post.img }}" class="img-responsive img-centered img-speaker" alt="{{ post.alt }}">
+                            {% unless haswebsite == "" %}
+                               </a>
+                            {% endunless %}
+                            <h3>
+                            {% if slides != '' %}
+                              <a href="{{ slides }}">
+                            {% endif %}
+                             {{ post.topic }}
+                            {% if slides != '' %}
+                              </a>
+                            {% endif %}
+                         </h3>
+                            <p>{{ post.abstract }}</p>
+                             {% if slides != '' %}
+                              <p>
+                              <a href="{{ slides }}">Slides</a>
+                              </p>
+                            {% endif %}
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

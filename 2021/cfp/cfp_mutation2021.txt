@@ -1,0 +1,72 @@
+# CALL FOR PAPERS
+
+Mutation 2021: The 16th International Workshop on Mutation Analysis
+
+https://mutation-workshop.github.io/2021/
+
+Co-located with ICST 2021
+(Intl. Conference on Software Testing, Verification and Validation: https://icst2021.icmc.usp.br/)
+
+
+## About Mutation 2021
+
+Mutation analysis adopts mutation of software artefacts to improve software testing. Ideas derived from mutation testing have also been used to test artefacts at different levels of abstraction, including requirements, formal specifications, models, architectural design notations and informal descriptions. More recently, mutation has played an important role in SE4AI, such as in machine learning testing. 
+
+The goal of the Mutation workshop is to provide a forum for researchers and practitioners to discuss new and emerging trends in mutation analysis. We invite submissions of both full-length and short-length research papers as well as industry practice papers. Please visit the website for more information.
+
+
+## Topics of interest
+
+- Mutation-based test adequacy criteria (theoretical analyses and practical applications).
+- Mutation-based test data generation.
+- Higher order mutation testing.
+- Novel mutation testing paradigms and applications.
+- Novel solutions to mutation's problems.
+- Empirical studies using and/or evaluating mutation.
+- Theoretical analysis of mutation testing.
+- Mutation testing tools.
+- Industrial experience and application of mutation testing.
+- Mutation for mobile, internet, and cloud-based systems (QoS, power consumption, etc).
+- Mutation for non-functional properties, including security, reliability, performance, etc.
+- Mutation for artificial intelligence (e.g., data mutation, model mutation, mutation-based test data generation, etc.)
+
+
+## Submissions & Publication
+
+Three types of papers can be submitted to the workshop:
+- Full papers (10 pages): Research, case studies
+- Short papers (6 pages): Research in progress, tools, experience reports
+- Industrial papers (6 pages): Applications and lessons learned in industry
+- Poster papers (2 pages): Reseach in progress, tools, problem descriptions, new ideas
+
+Each paper must conform to the two-column IEEE conference publication
+[format](https://www.ieee.org/conferences/publishing/templates.html) and must be
+submitted in PDF format via
+[EasyChair]().
+Submissions will be evaluated according to the relevance and originality of the
+work and to their ability to generate discussions between the participants of
+the workshop. Three reviewers will review each paper and all accepted papers
+will be published as part of the ICST proceedings.
+
+## Important Dates
+
+- Submission of abstracts: 
+- Submission of full papers: 10th January, 2021 
+- Notification of acceptance: 31st January, 2021
+- Camera Ready: 20th February, 2021
+- Workshop date: 
+
+## Special Issue on Mutation Analysis and its Industrial Applications
+
+We encourage authors of accepted papers to submit an extended
+version of their paper to a special issue on _Mutation Analysis and its
+Industrial Applications_ published by the Journal of Software Testing,
+Verification and Reliability (STVR). The extended papers will go
+through the regular review process but will be assigned at least one
+reviewer from the Mutation 2021 Program Committee.
+
+## Organization
+
+Jie M. Zhang, UCL, UK
+Rahul Gopinath, Saarland University, Germany
+
