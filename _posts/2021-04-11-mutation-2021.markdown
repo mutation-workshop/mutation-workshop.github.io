@@ -4,5 +4,5 @@ title:  "Mutation 2021"
 date:   2020-04-11
 ---
 
-The [16th International Workshop on Mutation analysis](/2021/)
+The [16th International Workshop on Mutation analysis](/2021/), Virtual
 (associated with [ICST 2021](https:/https://icst2021.icmc.usp.br/))
